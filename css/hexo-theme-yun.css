@@ -126,7 +126,7 @@ body::before {
   height: 100%;
   z-index: -1;
   opacity: 0.8;
-  background-image: url("https://cdn.jsdelivr.net/gh/YunYouJun/cdn/img/bg/stars-timing-0-blur-30px.jpg");
+  background-image: url("/images/bg.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
