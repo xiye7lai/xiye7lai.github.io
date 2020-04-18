@@ -1,18 +1,18 @@
 ---
 layout: links
-title: °³µÎĞ¡»ï°é
+title: ä¿ºæ»´å°ä¼™ä¼´
 date: 2020-04-18 09:06:06
-keywords: Á´½Ó
-description: ÓÑÇéÁ´½Ó
+keywords: å‹æƒ…é“¾æ¥
+description: å°ä¼™ä¼´ä»¬
 comments: true
 links:
   - url: https://lemonaaaaa.com
     avatar: https://cdn.jsdelivr.net/gh/xiye7lai/CDN/lemon.png
     name: lemon
     blog: lemon's blog
-    desc: ¿ìÀÖ²»ĞèÒªµÈµ½Ã÷Ìì£¬ÏÂÒ»Ãë¶¼¾õµÃÒ£Ô¶
-    color: "#0078e7" # ´ú±íÉ«
-    email: # ·Ç±ØĞë
-placeholder: # Ä¬ÈÏ¶ÔÓÑÁ´µÄÃèÊö
-tip: ÓÑÁ´¼ÓÔØÖĞ¡«ÈçÊ§°ÜÇëË¢ĞÂÖØÊÔ¡«
+    desc: å¿«ä¹ä¸éœ€è¦ç­‰åˆ°æ˜å¤©ï¼Œä¸‹ä¸€ç§’éƒ½è§‰å¾—é¥è¿œ
+    color: "#0078e7" 
+    email: 
+placeholder: 
+tip: å‹é“¾åŠ è½½ä¸­ï½å¦‚å¤±è´¥è¯·åˆ·æ–°é‡è¯•ï½
 ---
